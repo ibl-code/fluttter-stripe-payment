@@ -1,6 +1,4 @@
-# payment_stripe_demo
-
-A new Flutter project.
+# Flutter Stripe Payment
 
 ## Getting Started
 
